@@ -1,0 +1,9 @@
+.modal .show{
+    display: block;
+}
+.modal .modal-header{
+    display: block;
+}
+.modal-body .list{
+    display: none;
+}
